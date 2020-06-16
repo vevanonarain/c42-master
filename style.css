@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+h2 {
+  color:orangered;
+  justify-content: center;
+}
+h3 {
+  color: black;
+}
